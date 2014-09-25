@@ -1,6 +1,6 @@
 {
     "name": "torann/registry",
-    "description": "Laravel 4 registry manager for application configurations",
+    "description": "Laravel 5 registry manager for application configurations",
     "keywords": ["registry", "laravel", "settings"],
 	"license": "BSD 2-Clause",
     "authors": [
